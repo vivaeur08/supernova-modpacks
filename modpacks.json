@@ -9,32 +9,20 @@
       "minecraft_version": "1.20.1",
       "mod_loader": "forge",
       "mod_loader_version": "47.2.0",
-      "image_url": "https://via.placeholder.com/800x400/4ade80/ffffff?text=Survie+Vanille%2B",
+      "image_url": "https://placehold.co/800x400/4ade80/ffffff/png?text=Survie+Vanille",
       "server_ip": "survie.tonserveur.fr",
-      "folder_name": "survie-vanille",
-      "files": {
-        "mods": [],
-        "config": [],
-        "resourcepacks": [],
-        "other": []
-      }
+      "folder_path": "modpacks/survie-vanille"
     },
     {
       "id": "modpack-aventure",
-      "name": "Aventure Épique",
+      "name": "Aventure Epique",
       "description": "Explore des donjons, combats des boss, et vis une aventure incroyable avec plus de 50 mods d'exploration et de combat !",
       "minecraft_version": "1.20.1",
       "mod_loader": "forge",
       "mod_loader_version": "47.2.0",
-      "image_url": "https://via.placeholder.com/800x400/f59e0b/ffffff?text=Aventure+%C3%89pique",
+      "image_url": "https://placehold.co/800x400/f59e0b/ffffff/png?text=Aventure+Epique",
       "server_ip": "aventure.tonserveur.fr",
-      "folder_name": "modpack-aventure",
-      "files": {
-        "mods": [],
-        "config": [],
-        "resourcepacks": [],
-        "other": []
-      }
+      "folder_path": "modpacks/modpack-aventure"
     },
     {
       "id": "tech-modpack",
@@ -43,32 +31,20 @@
       "minecraft_version": "1.20.1",
       "mod_loader": "forge",
       "mod_loader_version": "47.2.0",
-      "image_url": "https://via.placeholder.com/800x400/3b82f6/ffffff?text=Tech+Industriel",
+      "image_url": "https://placehold.co/800x400/3b82f6/ffffff/png?text=Tech+Industriel",
       "server_ip": "tech.tonserveur.fr",
-      "folder_name": "tech-modpack",
-      "files": {
-        "mods": [],
-        "config": [],
-        "resourcepacks": [],
-        "other": []
-      }
+      "folder_path": "modpacks/tech-modpack"
     },
     {
       "id": "magie-rpg",
       "name": "Magie & RPG",
-      "description": "Deviens un puissant mage, monte de niveau, apprends des sorts et explore un monde rempli de magie avec Ars Nouveau, Iron's Spells et plus.",
+      "description": "Deviens un puissant mage, monte de niveau, apprends des sorts et explore un monde rempli de magie avec Ars Nouveau et Iron's Spells.",
       "minecraft_version": "1.20.1",
       "mod_loader": "forge",
       "mod_loader_version": "47.2.0",
-      "image_url": "https://via.placeholder.com/800x400/a855f7/ffffff?text=Magie+%26+RPG",
+      "image_url": "https://placehold.co/800x400/a855f7/ffffff/png?text=Magie+et+RPG",
       "server_ip": "magie.tonserveur.fr",
-      "folder_name": "magie-rpg",
-      "files": {
-        "mods": [],
-        "config": [],
-        "resourcepacks": [],
-        "other": []
-      }
+      "folder_path": "modpacks/magie-rpg"
     },
     {
       "id": "hardcore-pvp",
@@ -77,32 +53,20 @@
       "minecraft_version": "1.20.1",
       "mod_loader": "fabric",
       "mod_loader_version": "0.15.0",
-      "image_url": "https://via.placeholder.com/800x400/ef4444/ffffff?text=Hardcore+PvP",
+      "image_url": "https://placehold.co/800x400/ef4444/ffffff/png?text=Hardcore+PvP",
       "server_ip": "pvp.tonserveur.fr",
-      "folder_name": "hardcore-pvp",
-      "files": {
-        "mods": [],
-        "config": [],
-        "resourcepacks": [],
-        "other": []
-      }
+      "folder_path": "modpacks/hardcore-pvp"
     },
     {
       "id": "creatif-build",
-      "name": "Créatif & Build",
+      "name": "Creatif & Build",
       "description": "Tous les outils pour construire les plus belles structures ! WorldEdit, Schematica, Litematica et des shaders incroyables.",
       "minecraft_version": "1.20.1",
       "mod_loader": "fabric",
       "mod_loader_version": "0.15.0",
-      "image_url": "https://via.placeholder.com/800x400/ec4899/ffffff?text=Cr%C3%A9atif+%26+Build",
+      "image_url": "https://placehold.co/800x400/ec4899/ffffff/png?text=Creatif+et+Build",
       "server_ip": "creatif.tonserveur.fr",
-      "folder_name": "creatif-build",
-      "files": {
-        "mods": [],
-        "config": [],
-        "resourcepacks": [],
-        "other": []
-      }
+      "folder_path": "modpacks/creatif-build"
     }
   ]
 }
