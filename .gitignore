@@ -1,0 +1,16 @@
+# Fichiers temporaires
+*.tmp
+*.log
+*.bak
+
+# Dossiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers d'IDE
+.vscode/
+.idea/
+
+# Mais on garde les .gitkeep
+!.gitkeep
