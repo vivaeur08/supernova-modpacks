@@ -5,12 +5,12 @@
     {
       "id": "survie-vanille",
       "name": "Survie Vanille+",
-      "description": "Un modpack de survie avec quelques améliorations de qualité de vie. Optifine, minimaps, et plus encore pour une expérience vanilla améliorée !",
-      "minecraft_version": "1.20.1",
-      "mod_loader": "forge",
-      "mod_loader_version": "47.2.0",
-      "image_url": "https://placehold.co/800x400/4ade80/ffffff/png?text=Survie+Vanille",
-      "server_ip": "survie.tonserveur.fr",
+      "description": "Un modpack de survie avec quelques améliorations de qualité de vie. Pour une expérience vanilla améliorée !",
+      "minecraft_version": "26.1.2",
+      "mod_loader": "fabric",
+      "mod_loader_version": "0.19.2",
+      "image_url": "https://raw.githubusercontent.com/vivaeur08/supernova-modpacks/main/modpacks/survie-vanille/image.png",
+      "server_ip": "Pas-de-serveur",
       "folder_path": "modpacks/survie-vanille"
     },
     {
