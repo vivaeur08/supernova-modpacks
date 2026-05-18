@@ -47,6 +47,17 @@
       "folder_path": "modpacks/magie-rpg"
     },
     {
+      "id": "rpg",
+      "name": " RPG",
+      "description": "Deviens un puissant mage, monte de niveau, apprends des sorts et explore un monde rempli de magie avec Ars Nouveau et Iron's Spells.",
+      "minecraft_version": "1.20.1",
+      "mod_loader": "forge",
+      "mod_loader_version": "47.2.0",
+      "image_url": "https://placehold.co/800x400/a855f7/ffffff/png?text=Magie+et+RPG",
+      "server_ip": "magie.tonserveur.fr",
+      "folder_path": "modpacks/magie-rpg"
+    },
+    {
       "id": "hardcore-pvp",
       "name": "Hardcore PvP",
       "description": "Pour les vrais guerriers ! Mode hardcore avec mods de combat, factions, et une expérience PvP ultime. Pas de pitié !",
