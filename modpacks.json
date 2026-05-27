@@ -4,8 +4,8 @@
   "modpacks": [
     {
       "id": "survie-vanille",
-      "name": "Survie Vanille+",
-      "description": "Un modpack de survie avec quelques améliorations de qualité de vie. Pour une expérience vanilla améliorée !",
+      "name": "Ne pas installé",
+      "description": "C'est un modpack teste donc pas touche",
       "minecraft_version": "26.1.2",
       "mod_loader": "fabric",
       "mod_loader_version": "0.19.2",
@@ -13,60 +13,5 @@
       "server_ip": "Pas-de-serveur",
       "folder_path": "modpacks/survie-vanille"
     },
-    {
-      "id": "modpack-aventure",
-      "name": "Aventure Epique",
-      "description": "Explore des donjons, combats des boss, et vis une aventure incroyable avec plus de 50 mods d'exploration et de combat !",
-      "minecraft_version": "1.20.1",
-      "mod_loader": "forge",
-      "mod_loader_version": "47.2.0",
-      "image_url": "https://placehold.co/800x400/f59e0b/ffffff/png?text=Aventure+Epique",
-      "server_ip": "aventure.tonserveur.fr",
-      "folder_path": "modpacks/modpack-aventure"
-    },
-    {
-      "id": "tech-modpack",
-      "name": "Tech Industriel",
-      "description": "Construis des usines, automatise tout, voyage dans l'espace ! Le meilleur modpack tech avec Mekanism, Create, AE2 et bien d'autres.",
-      "minecraft_version": "1.20.1",
-      "mod_loader": "forge",
-      "mod_loader_version": "47.2.0",
-      "image_url": "https://placehold.co/800x400/3b82f6/ffffff/png?text=Tech+Industriel",
-      "server_ip": "tech.tonserveur.fr",
-      "folder_path": "modpacks/tech-modpack"
-    },
-    {
-      "id": "magie-rpg",
-      "name": "Magie & RPG",
-      "description": "Deviens un puissant mage, monte de niveau, apprends des sorts et explore un monde rempli de magie avec Ars Nouveau et Iron's Spells.",
-      "minecraft_version": "1.20.1",
-      "mod_loader": "forge",
-      "mod_loader_version": "47.2.0",
-      "image_url": "https://placehold.co/800x400/a855f7/ffffff/png?text=Magie+et+RPG",
-      "server_ip": "magie.tonserveur.fr",
-      "folder_path": "modpacks/magie-rpg"
-    },
-    {
-      "id": "hardcore-pvp",
-      "name": "Hardcore PvP",
-      "description": "Pour les vrais guerriers ! Mode hardcore avec mods de combat, factions, et une expérience PvP ultime. Pas de pitié !",
-      "minecraft_version": "1.20.1",
-      "mod_loader": "fabric",
-      "mod_loader_version": "0.16.10",
-      "image_url": "https://placehold.co/800x400/ef4444/ffffff/png?text=Hardcore+PvP",
-      "server_ip": "pvp.tonserveur.fr",
-      "folder_path": "modpacks/hardcore-pvp"
-    },
-    {
-      "id": "creatif-build",
-      "name": "Creatif & Build",
-      "description": "Tous les outils pour construire les plus belles structures ! WorldEdit, Schematica, Litematica et des shaders incroyables.",
-      "minecraft_version": "1.20.1",
-      "mod_loader": "fabric",
-      "mod_loader_version": "0.16.10",
-      "image_url": "https://placehold.co/800x400/ec4899/ffffff/png?text=Creatif+et+Build",
-      "server_ip": "creatif.tonserveur.fr",
-      "folder_path": "modpacks/creatif-build"
-    }
   ]
 }
