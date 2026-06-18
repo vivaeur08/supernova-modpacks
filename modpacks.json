@@ -9,11 +9,9 @@
       "minecraft_version": "1.20.1",
       "mod_loader": "fabric",
       "mod_loader_version": "0.19.3",
-      "image_url": "https://raw.githubusercontent.com/vivaeur08/supernova-modpacks/main/modpacks/survie-vanille/image.png",
+      "image_url": "https://raw.githubusercontent.com/vivaeur08/supernova-modpacks/main/modpacks/Fabric%201.20.1/image.png",
       "server_ip": "Pas-de-serveur",
       "folder_path": "modpacks/Fabric%201.20.1"
     }
   ]
 }
-
-
