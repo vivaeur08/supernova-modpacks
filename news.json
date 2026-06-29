@@ -1,13 +1,22 @@
 {
   "news": [
     {
-      "id": 3,
-      "title": "Coucou!",
-      "description": "Description courte affichée sur la home.",
-      "content": "Description LONGUE affichée dans la modal.\n\nTu peux mettre du contenu sur plusieurs lignes,\nexpliquer les features,\nlister des changements...",
-      "image": "https://...",
+      "id": 1,
+      "title": "Bienvenue sur Zenra Launcher !",
+      "description": "Le nouveau launcher est enfin là.",
+      "content": "Profitez de tous nos modpacks officiels avec une nouvelle interface moderne et intuitive.\n\nFonctionnalités :\n- Connexion Discord\n- Modpacks personnalisés\n- Lancement Minecraft offline ou en ligne",
+      "image": "https://raw.githubusercontent.com/vivaeur08/supernova-modpacks/main/modpacks/Fabric%201.20.1/image.png",
       "date": "2025-01-17",
       "link": "https://discord.gg/9297NAsHMa"
+    },
+    {
+      "id": 2,
+      "title": "Modpack Fabric 1.20.1 disponible",
+      "description": "Découvre notre premier modpack officiel.",
+      "content": "Le modpack Fabric 1.20.1 est maintenant disponible dans l'onglet Discover.\n\nIl contient :\n- Mods optimisés\n- Resource packs\n- Shaders compatibles",
+      "image": "https://raw.githubusercontent.com/vivaeur08/supernova-modpacks/main/modpacks/Fabric%201.20.1/image.png",
+      "date": "2025-01-15",
+      "link": ""
     }
   ]
 }
