@@ -1,0 +1,20 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Bienvenue sur Zenra Launcher !",
+      "description": "Le nouveau launcher est enfin là. Profitez de tous nos modpacks officiels.",
+      "image": "https://images.unsplash.com/photo-1607513746994-51f730a44832?w=400",
+      "date": "2025-01-15",
+      "link": ""
+    },
+    {
+      "id": 2,
+      "title": "Modpack Create Arcana disponible",
+      "description": "Découvre l'aventure magique avec Create + Arcana sur 1.20.1 Fabric.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400",
+      "date": "2025-01-10",
+      "link": ""
+    }
+  ]
+}
