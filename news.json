@@ -2,11 +2,20 @@
   "news": [
     {
       "id": 1,
-      "title": "Nouveau Ajout !!!",
-      "description": "j'ai ajouter un loading screen, les ressourcepacks, datapacks ect dans l'onglet mod",
-      "content": "Profitez de tous nos modpacks officiels avec une nouvelle interface moderne et intuitive.\n\nFonctionnalités :\n- Connexion Discord\n- Modpacks personnalisés\n- Lancement Minecraft offline ou en ligne",
+      "title": "🎉 Mise à jour majeure - Catalogue étendu + Loading Screen !",
+      "description": "Nouveau catalogue 4-en-1 (mods, resource packs, shaders, datapacks) + écran de chargement au démarrage + instances épinglées sur Home + bien plus !",
+      "content": "Une grosse mise à jour pour Zenra Launcher est arrivée ! 🚀\n\n✨ NOUVEAUTÉS PRINCIPALES :\n\n🎨 Splash Screen + Loading Screen\nUn écran de démarrage premium et un chargement intelligent pour éviter les bugs visuels.\n\n🧩 Catalogue étendu (4 onglets)\nLe catalogue contient maintenant :\n• Mods\n• Resource Packs\n• Shaders\n• Datapacks\nTout est accessible en 1 clic depuis la page détail de tes instances.\n\n🌍 Modpacks communautaires dans Discover\nDécouvre des milliers de modpacks populaires de Modrinth et CurseForge directement depuis l'onglet Discover. Installation en 1 clic !\n\n⭐ Instances épinglées sur Home\nÉpingle tes instances favorites pour les retrouver instantanément sur la page d'accueil avec leurs images en grand.\n\n▶️ Bouton PLAY rapide\nLe bouton PLAY lance directement la dernière instance jouée. Plus besoin de sélectionner !\n\n🔄 Switch rapide de compte\nClique sur ton profil en haut à droite pour switcher entre ton compte Discord (offline) et Microsoft (serveurs publics) en 1 clic. La tête de ton skin Minecraft est même affichée !\n\n🎓 Tutoriel interactif\nUn tutoriel guidé au premier lancement (et relançable depuis Settings) pour découvrir toutes les fonctionnalités avec un spotlight lumineux.\n\n🔍 Scanner intelligent\nScanne tes mods/packs déjà installés pour récupérer automatiquement leurs vraies images et noms depuis Modrinth.\n\n👕 CustomSkinLoader auto-install\nAjoute tes skins en jeu offline d'un clic depuis la page détail d'une instance.\n\n🐛 Crash Analyzer intelligent\nDétecte automatiquement le mod responsable d'un crash et propose des solutions.\n\n💾 Export/Import d'instances\nPartage tes instances avec tes amis (.zenra.zip) ou importe directement des modpacks Modrinth (.mrpack).\n\n🔔 Notifications Windows\nReçois des notifications quand Minecraft est lancé, fermé ou crashé.\n\n📋 Drag & Drop\nGlisse-dépose tes fichiers .jar, .zip directement sur l'instance pour les installer.\n\n🎨 Personnalisation totale\nChoisis la couleur d'accent et ton fond d'écran personnalisé.\n\n📦 Backup automatique\nUne sauvegarde de tes mondes est créée à chaque lancement (3 max gardées).\n\n---\n\nMerci de tester et de remonter les bugs sur Discord ! 💚",
       "image": "https://cdn.discordapp.com/attachments/1330175621560537162/1521294661120037075/image.png?ex=6a444f8f&is=6a42fe0f&hm=f2fe6b07d8b94e8745aecc95792dac48130ae7ae4444f1b75606d5d7891c5187&",
       "date": "2026-07-30",
+      "link": "https://discord.gg/9297NAsHMa"
+    },
+    {
+      "id": 2,
+      "title": "Bienvenue sur Zenra Launcher !",
+      "description": "Le nouveau launcher Minecraft est enfin là. Découvre une interface moderne et puissante.",
+      "content": "Zenra Launcher est un launcher Minecraft moderne avec :\n\n• Connexion Discord obligatoire\n• Support Microsoft pour serveurs publics\n• Mode offline avec pseudo Discord\n• Modpacks officiels et communautaires\n• Mise à jour automatique\n\nRejoins le Discord pour ne rien rater !",
+      "image": "https://raw.githubusercontent.com/vivaeur08/supernova-modpacks/main/modpacks/Fabric%201.20.1/image.png",
+      "date": "2025-01-17",
       "link": "https://discord.gg/9297NAsHMa"
     }
   ]
