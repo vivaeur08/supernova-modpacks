@@ -3,15 +3,15 @@
   "last_updated": "2025-01-17",
   "modpacks": [
     {
-      "id": "survie-vanille",
-      "name": "Ne pas installé",
-      "description": "C'est un modpack teste donc pas touche",
+      "id": "murder",
+      "name": "Flex Murder",
+      "description": "C'est un modpack pour jouer au mini jeu murder ensemble",
       "minecraft_version": "1.20.1",
-      "mod_loader": "fabric",
-      "mod_loader_version": "0.19.3",
+      "mod_loader": "forge",
+      "mod_loader_version": "47.4.20",
       "image_url": "https://raw.githubusercontent.com/vivaeur08/supernova-modpacks/main/modpacks/Fabric%201.20.1/image.png",
       "server_ip": "Pas-de-serveur",
-      "folder_path": "modpacks/Fabric%201.20.1"
+      "folder_path": "modpacks/murder"
     }
   ]
 }
