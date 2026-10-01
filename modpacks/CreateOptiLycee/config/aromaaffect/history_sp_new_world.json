@@ -1,0 +1,46 @@
+{
+  "history": [
+    {
+      "targetId": "minecraft:village_plains",
+      "displayName": "Village (Plains)",
+      "categoryId": "structures",
+      "x": 338,
+      "y": 112,
+      "z": 812,
+      "dimension": "minecraft:overworld",
+      "timestamp": 1788966274366
+    },
+    {
+      "targetId": "minecraft:village_plains",
+      "displayName": "Village (Plains)",
+      "categoryId": "structures",
+      "x": 338,
+      "y": 112,
+      "z": 812,
+      "dimension": "minecraft:overworld",
+      "timestamp": 1788966271731
+    },
+    {
+      "targetId": "minecraft:village_taiga",
+      "displayName": "Village (Taiga)",
+      "categoryId": "structures",
+      "x": 234,
+      "y": 75,
+      "z": 1731,
+      "dimension": "minecraft:overworld",
+      "timestamp": 1788966267501
+    },
+    {
+      "targetId": "minecraft:water",
+      "displayName": "Water",
+      "categoryId": "blocks",
+      "x": 10,
+      "y": 96,
+      "z": 4,
+      "dimension": "minecraft:overworld",
+      "timestamp": 1788966251829
+    }
+  ],
+  "saved": [],
+  "blacklist": []
+}

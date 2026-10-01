@@ -1,0 +1,30 @@
+{
+  "taming": {
+    "torchflowersNeeded": 4
+  },
+  "riding": {
+    "landSpeedMultiplier": 0.8,
+    "mountedStepHeight": 1.0,
+    "normalStepHeight": 0.6,
+    "waterExitStepHeight": 1.5
+  },
+  "swimming": {
+    "slowSpeed": 0.03,
+    "swimSpeed": 0.28
+  },
+  "waterFloating": {
+    "floatOffset": 0.5,
+    "horizontalDrag": 0.98,
+    "maxUpwardSpeed": 0.08,
+    "maxDownwardSpeed": 0.04,
+    "buoyancyStrength": 0.1
+  },
+  "digging": {
+    "sniffCooldownWithNose": 200
+  },
+  "dimensionalScents": {
+    "overworld": "aromaaffect:overworld_scent",
+    "nether": "aromaaffect:nether_scent",
+    "end": "aromaaffect:end_scent"
+  }
+}

@@ -1,0 +1,81 @@
+[general]
+	#Master switch for the whole mod.
+	enabled = true
+	#Apply the hearing rules to ALL hostile monsters, not just zombies.
+	affectAllMonsters = false
+	#Also apply the rules to zombified piglins (they are neutral, off by default).
+	affectZombifiedPiglins = false
+	#Extra entity ids to apply the rules to, e.g. ["minecraft:skeleton", "somemod:mutant_zombie"].
+	#Mobs extending the vanilla zombie class are always included automatically.
+	extraMobs = []
+
+[hearing]
+	#Base radius (blocks) in which mobs hear a player talking at full volume.
+	#For reference, Simple Voice Chat's default audible distance is 48 blocks.
+	# Default: 32.0
+	# Range: 0.0 ~ 128.0
+	hearingRange = 32.0
+	#Hearing range multiplier while the player is whispering (voice chat whisper key).
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	whisperMultiplier = 0.25
+	#Voice volume (in dB, 0 = max, -127 = silence) that counts as audible to mobs.
+	#Quieter samples are ignored entirely. -50 roughly matches normal speech;
+	#raise it towards -30 if background noise from open microphones attracts zombies.
+	# Default: -50
+	# Range: -127 ~ 0
+	activationThresholdDb = -50
+	#If true, how FAR mobs hear you scales with how loud you talk:
+	#speaking at the threshold volume is heard at quietRangeFactor * hearingRange,
+	#screaming at full volume is heard at the full hearingRange.
+	loudnessScaling = true
+	#Fraction of the hearing range for the quietest audible voice (see loudnessScaling).
+	# Default: 0.3
+	# Range: 0.05 ~ 1.0
+	quietRangeFactor = 0.3
+
+[walls]
+	#Blocks between the mob and the player muffle the voice: mobs behind a wall
+	#only hear you at wallMuffleMultiplier * range. They never aggro through
+	#walls from sound alone — they come to investigate the position they heard.
+	muffleEnabled = true
+	#Hearing range multiplier when there is no direct line of sight to the player.
+	# Default: 0.4
+	# Range: 0.0 ~ 1.0
+	wallMuffleMultiplier = 0.4
+
+[searching]
+	#How long (in ticks, 20 = 1 second) a mob keeps searching around the position
+	#where it heard a voice. Refreshed every time it hears the player again.
+	# Default: 300
+	# Range: 20 ~ 2400
+	searchTimeTicks = 300
+	#Movement speed modifier while walking to and searching the heard position.
+	# Default: 1.0
+	# Range: 0.1 ~ 2.0
+	searchSpeed = 1.0
+	#Radius (blocks) around the heard position the mob pokes around in once it arrives.
+	#0 = just walk to the spot and stand there.
+	# Default: 4
+	# Range: 0 ~ 16
+	searchWanderRadius = 4
+
+[performance]
+	#How often (in ticks, 20 = 1 second) each talking player's voice is sampled
+	#and nearby mobs are alerted. Voice packets in between are discarded at
+	#near-zero cost, so this directly caps the per-player overhead.
+	#10 ticks = 2 samples per second; raise it on very crowded servers.
+	# Default: 10
+	# Range: 2 ~ 200
+	alertIntervalTicks = 10
+	#At most this many mobs start investigating per voice sample (cap for dense hordes).
+	# Default: 16
+	# Range: 1 ~ 64
+	maxMobsPerAlert = 16
+	#Wall muffling needs a line-of-sight raycast, but only for mobs in the outer
+	#ring of the hearing range (close mobs hear you even muffled, no raycast needed).
+	#At most this many raycasts are done per voice sample; mobs beyond the budget
+	#in the outer ring simply don't hear you that sample.
+	# Default: 8
+	# Range: 0 ~ 64
+	muffleRaycastBudget = 8
